@@ -1,0 +1,22 @@
+.two-columns__paragraph {
+    margin: 0;
+    margin-bottom: 30px;
+  }
+  
+  .two-columns__paragraph:last-child {
+  margin: 0;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  }
+  
+  .two-columns__paragraph:first-child {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  }
+  .two-columns__paragraph:nth-child(2) {
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+    }
